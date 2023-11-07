@@ -15,8 +15,8 @@ export default function Header() {
           <input
             className="bg-transparent focus:outline-none w-24 sm:w-64"
             type="text"
-            name=""
-            id=""
+            name="search"
+            id="search"
             placeholder="Search..."
           />
           <FaSearch className="text-slate-600" />
